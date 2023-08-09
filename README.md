@@ -26,3 +26,9 @@
   - Regular Expression, tqdm, googlemaps, folium 활용
 - 동적 홈페이지 데이터를 수집해보자.
     - Selenium 활용
+
+(23.08.09) 04. 유가 분석(2/2)
+- Selenium_Basic_1(최종)
+  - Selenium 활용
+- Self Oil Station Price Analysis
+  - 셀프 주유소가 정말 저렴할까? 에 대한 의문을 직접 데이터를 크롤링하고 분석해서 알아보자.      
