@@ -27,8 +27,15 @@
 - 동적 홈페이지 데이터를 수집해보자.
     - Selenium 활용
 
-(23.08.09) 04. 유가 분석(2/2)
+(23.08.09.) 04. 유가 분석(2/2)
 - Selenium_Basic_1(최종)
   - Selenium 활용
 - Self Oil Station Price Analysis
   - 셀프 주유소가 정말 저렴할까? 에 대한 의문을 직접 데이터를 크롤링하고 분석해서 알아보자.      
+
+(23.08.14.) 05. forecast & 06. Naver API
+- 시계열 데이터 분석
+  - Prophet 활용
+  - https://github.com/facebook/prophet
+- 네이버 API로 네이버 검색 결과를 수집해보자.
+  - 네이버 API 활용
