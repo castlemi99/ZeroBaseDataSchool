@@ -39,3 +39,7 @@
   - https://github.com/facebook/prophet
 - 네이버 API로 네이버 검색 결과를 수집해보자.
   - 네이버 API 활용
+
+(23.08.15.) 07. Population
+- 인구소멸지역을 지도에 시각화해보자.
+  - 카르토그램, folium 활용
